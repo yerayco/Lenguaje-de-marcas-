@@ -1,0 +1,11 @@
+<catalogo xmlns="Https://www.mipagina.org/libros"
+         xmlns="https://www.mipagina.org/discos">
+    <book:libto>
+        <booktitulo>Aprendiendo xml</booktitulo>
+        <book:autor>Ana Pérez</book:autor>
+    </book:libto>
+    <disc:vinilo>
+        <disc:titulo>Greatest Hits II</disc:tituloo>
+        <autor>Queen</autor>
+    </disc:viniloo>
+</catalogo>
